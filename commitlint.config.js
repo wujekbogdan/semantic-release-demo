@@ -10,7 +10,7 @@ module.exports = {
         "jira-issue-in-subject": function ({ subject }) {
           return [
             subject && /^([A-Z]{2,10}-[0-9]{2,10}){1,}/.test(subject),
-            "Your subject should contain a JIRA issue number (ex. feat(scope): JIRA-123 short description)",
+            "Your subject should contain a JIRA issue number, e.g.: feat(scope): JIRA-123 short description",
           ];
         },
       },
