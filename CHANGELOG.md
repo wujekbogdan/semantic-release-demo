@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.1.0](https://github.com/wujekbogdan/semantic-release-demo/compare/v1.0.0...v1.1.0) (2023-01-23)
+
+
+### Features
+
+* **config:** JIRA-123 test.md ([#1](https://github.com/wujekbogdan/semantic-release-demo/issues/1)) ([1c474e5](https://github.com/wujekbogdan/semantic-release-demo/commit/1c474e59b589a10540bfd31742ae33506ff374f9))
+* JIRA-123 Added a test.md file ([681081f](https://github.com/wujekbogdan/semantic-release-demo/commit/681081fccbf59e299149cde4674d5e833a207047))
+
 # 1.0.0 (2023-01-23)
 
 
