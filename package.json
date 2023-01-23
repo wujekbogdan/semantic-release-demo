@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "license": "UNLICENSED",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/@digitalroute/cz-conventional-changelog-for-jira"
+    }
   },
   "files": [
     "dist",
