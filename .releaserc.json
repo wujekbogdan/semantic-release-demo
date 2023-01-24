@@ -18,6 +18,9 @@
         ],
         "message": "chore(release): ${nextRelease.version} \n\n${nextRelease.notes}"
       }
+    ],
+    [
+      "@semantic-release/exec"
     ]
   ],
   "branches": ["main"]
