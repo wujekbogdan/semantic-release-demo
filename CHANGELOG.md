@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/wujekbogdan/semantic-release-demo/compare/v1.1.0...v1.2.0) (2023-01-24)
+
+
+### Features
+
+* JIRA-123 commit msg ([30eb5ed](https://github.com/wujekbogdan/semantic-release-demo/commit/30eb5ed4a19dba3b523f1a65c20d3c4018d6ed71))
+* JIRA-123 commit msg ([#2](https://github.com/wujekbogdan/semantic-release-demo/issues/2)) ([7f181e6](https://github.com/wujekbogdan/semantic-release-demo/commit/7f181e674c0eaf852aefa9403b4bb100d92939c1))
+
 # [1.1.0](https://github.com/wujekbogdan/semantic-release-demo/compare/v1.0.0...v1.1.0) (2023-01-23)
 
 
