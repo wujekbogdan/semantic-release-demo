@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/wujekbogdan/semantic-release-demo/compare/v1.1.0...v1.2.0) (2023-02-02)
+
+
+### Features
+
+* Some new features! ([#9](https://github.com/wujekbogdan/semantic-release-demo/issues/9)) ([bda1ce2](https://github.com/wujekbogdan/semantic-release-demo/commit/bda1ce28878eaa50a543574ab388057b10189879))
+
 # [1.1.0](https://github.com/wujekbogdan/semantic-release-demo/compare/v1.0.0...v1.1.0) (2023-02-02)
 
 
