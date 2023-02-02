@@ -1,2 +1,2 @@
 const X = 'NEW_FEATURE_X'
-const Y = 'ANOTHRE FEATURE'
+const Y = 'ANOTHER FEATURE'
