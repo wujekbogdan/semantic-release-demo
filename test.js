@@ -1,1 +1,1 @@
-const X = 'NEW_FEATURE'
+const X = 'NEW_FEATURE_X'
