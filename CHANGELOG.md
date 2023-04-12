@@ -1,5 +1,15 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/wujekbogdan/semantic-release-demo/compare/v1.3.0...v1.4.0) (2023-04-12)
+
+
+### Features
+
+* JIRA-123 rename action ([5651d8e](https://github.com/wujekbogdan/semantic-release-demo/commit/5651d8e4dcc3a33f0d5bdbb7723ca71394106c90))
+* JIRA-123 syntax fix ([34cb4b2](https://github.com/wujekbogdan/semantic-release-demo/commit/34cb4b289272ca47a245289d2455c13739b9033f))
+* **scope:** JIRA-123 Add sync action ([2feec12](https://github.com/wujekbogdan/semantic-release-demo/commit/2feec1276868175b8d6f5f80fb64225b18818c5b))
+* **scope:** JIRA-123 short description ([5f393e2](https://github.com/wujekbogdan/semantic-release-demo/commit/5f393e2753cb7d7b37ba497f3090017d932b542a))
+
 # [1.3.0](https://github.com/wujekbogdan/semantic-release-demo/compare/v1.2.0...v1.3.0) (2023-04-12)
 
 
