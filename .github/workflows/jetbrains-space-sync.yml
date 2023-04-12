@@ -1,7 +1,7 @@
 on: [push]
 
 jobs:
-  deployment:
+  jetbrains-sync:
     runs-on: ubuntu-latest
     steps:
       - name: JetBrains Space repo sync
