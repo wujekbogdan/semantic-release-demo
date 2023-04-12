@@ -1,0 +1,14 @@
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+  steps:
+    - name: JetBrains Space repo sync
+      id: jetbrainsPing
+      uses: fjogeleit/http-request-action@v1
+      with:
+        url: "https://cezarybuliszak.jetbrains.space/~external-push-notification/MAIN/demo"
+    - name: Show Response
+      run: |
+        echo ${{ steps.jetbrainsPing.outputs.response }}
+        echo ${{ steps.jetbrainsPing.outputs.headers }}
+        echo ${{ fromJson(steps.jetbrainsPing.outputs.response).field_you_want_to_access }}
